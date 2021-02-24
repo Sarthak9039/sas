@@ -1,6 +1,0 @@
-C:\Training\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll
-C:\Training\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
-C:\Training\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csprojAssemblyReference.cache
-C:\Training\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
-C:\Training\BankLibrary\BankLibrary\obj\Debug\BankLibrary.dll
-C:\Training\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb
