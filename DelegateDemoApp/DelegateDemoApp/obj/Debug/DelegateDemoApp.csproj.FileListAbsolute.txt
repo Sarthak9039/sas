@@ -1,0 +1,7 @@
+C:\Training\DelegateDemoApp\DelegateDemoApp\bin\Debug\DelegateDemoApp.exe.config
+C:\Training\DelegateDemoApp\DelegateDemoApp\bin\Debug\DelegateDemoApp.exe
+C:\Training\DelegateDemoApp\DelegateDemoApp\bin\Debug\DelegateDemoApp.pdb
+C:\Training\DelegateDemoApp\DelegateDemoApp\obj\Debug\DelegateDemoApp.csprojAssemblyReference.cache
+C:\Training\DelegateDemoApp\DelegateDemoApp\obj\Debug\DelegateDemoApp.csproj.CoreCompileInputs.cache
+C:\Training\DelegateDemoApp\DelegateDemoApp\obj\Debug\DelegateDemoApp.exe
+C:\Training\DelegateDemoApp\DelegateDemoApp\obj\Debug\DelegateDemoApp.pdb

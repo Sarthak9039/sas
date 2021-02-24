@@ -1,0 +1,7 @@
+C:\Training\OtherFeatures\OtherFeatures\bin\Debug\OtherFeatures.exe.config
+C:\Training\OtherFeatures\OtherFeatures\bin\Debug\OtherFeatures.exe
+C:\Training\OtherFeatures\OtherFeatures\bin\Debug\OtherFeatures.pdb
+C:\Training\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.csprojAssemblyReference.cache
+C:\Training\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.csproj.CoreCompileInputs.cache
+C:\Training\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.exe
+C:\Training\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.pdb
